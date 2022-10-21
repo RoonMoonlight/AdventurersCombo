@@ -17,6 +17,7 @@ Current ATS version is 1.45 release.
 
 * [Crash Fix for Huge Combo Maps](https://drive.google.com/file/d/15X_vhtinxMXZ6KKEZyxgxB-gUFINxALi/view)
 * [ProMods Pacific & North American Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2618624602)
+* [Reforma Mexico Speed Limits](https://forum.scssoft.com/viewtopic.php?p=1714719)
 * [C2C & Reforma i10 Fix](https://forum.scssoft.com/viewtopic.php?p=1738586)
 * [Caribbean Map - Promods Fix](https://truckymods.io/american-truck-simulator/map-patches/caribbean-map-promods-fix)
 * [ProMods Canada](https://www.promods.net/setup.php?game=ats) (Follow the steps carefully)
@@ -49,7 +50,6 @@ Current ATS version is 1.45 release.
 * [Project Better Arizona Reforma Connection](https://truckymods.io/american-truck-simulator/map-patches/project-better-arizona-reforma-connections)
 * [Project Better Arizona](https://truckymods.io/american-truck-simulator/maps/project-better-arizona)
 * [MUO/Reforma Compatibility Patch](https://truckymods.io/american-truck-simulator/map-patches/muoreforma-compatibility-patch)
-* [Reforma Mexico Speed Limits](https://forum.scssoft.com/viewtopic.php?p=1714719)
 * [Reforma](https://truckymods.io/american-truck-simulator/maps/reforma)
     * Mega Resources
     * Reforma
