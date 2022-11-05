@@ -1,4 +1,4 @@
-# Roon's ATS Map Combo 2022.07
+# Roon's ATS Map Combo
 Roon's Map Combo for game American Truck Simulator, based on Vinnie Terranova and GMC Logistics' map combos.
 
 # Requirements
@@ -13,7 +13,7 @@ Due to nature of paid mods & SCS Software officially discourages the use of paid
 **Any requests to add paid mods will be immediately rejected.**
 
 # List of Maps / Load Order
-Current ATS version is 1.45 release. 1.46 Open Beta is currently unsupported as many mods does not support the beta release.
+Supported ATS version is 1.45 release. 1.46 Open Beta is currently unsupported as many mods does not support the beta release.
 
 * [Crash Fix for Huge Combo Maps](https://drive.google.com/file/d/15X_vhtinxMXZ6KKEZyxgxB-gUFINxALi/view)
 * [ProMods Pacific & North American Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2618624602)
