@@ -1,4 +1,4 @@
-# Roon's ATS Map Combo
+# Roon's ATS Map Combo 2022.07
 Roon's Map Combo for game American Truck Simulator, based on Vinnie Terranova and GMC Logistics' map combos.
 
 # Requirements
@@ -59,6 +59,9 @@ Current ATS version is 1.45 release.
 # Note
 * **This map combo is designed for Singleplayer ONLY.** It may not work on Convoy.
 * Any contribution to this pull request is welcomed and very appreciated. If you have any feedback feel free to submit on our issue tracker and pull request.
+
+# Archives
+* [2022.07 (1.45)](https://github.com/RoonMoonlight/Roons-ATS-Map-Combo/blob/master/archives/1.45/README.md)
 
 # Credits
 * [GMC Logistics](https://roextended.ro/forum/memberlist.php?mode=viewprofile&u=15977) for their map fixes and providing [map combo](https://roextended.ro/forum/viewtopic.php?f=20&t=2326)
