@@ -23,6 +23,7 @@ Current ATS version is 1.45 release. 1.46 Open Beta is currently unsupported as 
     * Discover Ontario - Def
     * Discover Ontario - Map&Models
 * [Midwest Expansion (Beta)](https://truckymods.io/american-truck-simulator/maps/50-united-former-midwest-expansion-c2c-required)
+* [Hawaii Ferry Fix - remove Washington Ferries](https://steamcommunity.com/sharedfiles/filedetails/?id=2638370288) (Optional Mod)
 * [MUO/Reforma/LA Ferry Patch](https://truckymods.io/american-truck-simulator/map-patches/muoreformapacific-map-patch)
 * [Los Angeles Cruise Terminal](https://terramaps.net/download/view.php?game=caribbean)
 * [Caribbean Map - Reforma Fix](https://truckymods.io/american-truck-simulator/map-patches/caribbean-map-reforma-fix)
@@ -38,7 +39,6 @@ Current ATS version is 1.45 release. 1.46 Open Beta is currently unsupported as 
     * ProMods Canada Definition Package
     * ProMods Canada Map Package
     * ProMods Canada Models Package
-* [Hawaii Ferry Fix - remove Washington Ferries](https://steamcommunity.com/sharedfiles/filedetails/?id=2638370288) (Optional Mod)
 * [Pacific Map](https://terramaps.net/download/view.php?game=pacific)
     * Pacific Def/Map
     * Pacific Models
