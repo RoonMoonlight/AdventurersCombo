@@ -65,5 +65,5 @@ Supported ATS version is 1.45 release. Any open beta versions are unsupported.
 * [2022.07 (1.45)](https://github.com/RoonMoonlight/Roons-ATS-Map-Combo/blob/master/archives/1.45/README.md)
 
 # Credits
-* [GMC Logistics](https://roextended.ro/forum/memberlist.php?mode=viewprofile&u=15977) for their map fixes and providing [map combo](https://roextended.ro/forum/viewtopic.php?f=20&t=2326)
+* [GMC Logistics](https://www.gmc-logistics.co.uk) for their map fixes and providing [map combo](https://www.gmc-logistics.co.uk/c2c-with-discover-ontario-1-45)
 * [Vinnie Terranova](https://forum.scssoft.com/memberlist.php?mode=viewprofile&u=171700) for his [load order](https://forum.scssoft.com/viewtopic.php?t=292914)
