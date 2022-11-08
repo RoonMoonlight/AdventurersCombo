@@ -45,7 +45,6 @@ Supported ATS version is 1.45 release. 1.46 Open Beta is currently unsupported a
 * [C2C & Reforma i10 Fix](https://forum.scssoft.com/viewtopic.php?p=1738586)
 * [Reforma C2C Compatibility Patch](https://reformaats.dudaone.com/downloads)
 * [Project: Mid-Atlantic](https://truckymods.io/american-truck-simulator/maps/project-mid-atlantic)
-* [Montana Expansion 2.0](https://truckymods.io/american-truck-simulator/maps/montana-expansion-20)
 * [Coast to Coast](https://truckymods.io/american-truck-simulator/maps/coast-to-coast)
 * [Grand Canyon Rebuild](https://forum.scssoft.com/viewtopic.php?t=281638)
 * [Project Better Arizona Reforma Connection](https://truckymods.io/american-truck-simulator/map-patches/project-better-arizona-reforma-connections)
@@ -56,7 +55,7 @@ Supported ATS version is 1.45 release. 1.46 Open Beta is currently unsupported a
     * Mega Resources
     * Reforma
 * [Lite Urban Overhaul](https://forum.scssoft.com/viewtopic.php?t=287978)
-
+* [Montana Expansion 2.0](https://truckymods.io/american-truck-simulator/maps/montana-expansion-20)
 
 # Note
 * **This map combo is designed for Singleplayer ONLY.** It may not work on Convoy.
