@@ -75,5 +75,3 @@ These mods are incompatible at the moment, but will be updated when 1.46 support
 * [Reforma v2.3.6.145](https://truckymods.io/american-truck-simulator/maps/reforma)
     * Mega Resources
     * Reforma
-
-
