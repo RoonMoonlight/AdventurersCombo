@@ -2,8 +2,6 @@
 Roon's Map Combo for game American Truck Simulator, based on Vinnie Terranova and GMC Logistics' map combos.
 
 # Requirements
-**Starting from 2022.11 release, Texas DLC is REQUIRED to continue using this map combo.**
-
 * [American Truck Simulator](https://store.steampowered.com/app/270880/American_Truck_Simulator/)
 * [ALL Map Expansion DLCs for ATS](https://store.steampowered.com/dlc/270880/American_Truck_Simulator/list/43348) (YOU NEED ALL MAP DLCS AND THERE IS NO EXCEPTION)
 * [TruckyMods Account](https://truckymods.io) (Some mod requires login to download)
@@ -15,26 +13,7 @@ Due to nature of paid mods & SCS Software officially discourages the use of paid
 **Any requests to add paid mods will be immediately rejected.**
 
 # List of Maps / Load Order
-**Note: This map combo is still incomplete and waiting for 1.46 compatibility updates. Thank you for your patience.**
-
-Supported ATS version is 1.46 release. Any open beta versions are unsupported.
-
-* [Lite Urban Overhaul v15.3](https://forum.scssoft.com/viewtopic.php?t=287978)
-* [Montana Expansion 2.0 v0.2.5](https://truckymods.io/american-truck-simulator/maps/montana-expansion-20)
-
-# Note
-* **This map combo is designed for Singleplayer ONLY.** It may not work on Convoy.
-* Any contribution to this pull request is welcomed and very appreciated. If you have any feedback feel free to submit on our issue tracker and pull request. (Warning: DO NOT make any pull request which modifies contents inside `archives` folder. Please keep the archived files as-is)
-
-# Archives
-* [2022.07 (1.45)](https://github.com/RoonMoonlight/Roons-ATS-Map-Combo/blob/master/archives/1.45/README.md)
-
-# Credits
-* [GMC Logistics](https://roextended.ro/forum/memberlist.php?mode=viewprofile&u=15977) for their map fixes and providing [map combo](https://roextended.ro/forum/viewtopic.php?f=20&t=2326)
-* [Vinnie Terranova](https://forum.scssoft.com/memberlist.php?mode=viewprofile&u=171700) for his [load order](https://forum.scssoft.com/viewtopic.php?t=292914)
-
-# Incompatible Maps
-These mods are incompatible at the moment, but will be updated when 1.46 support is ready.
+Supported ATS version is 1.45 release. Any open beta versions are unsupported.
 
 * [Crash Fix for Huge Combo Maps](https://drive.google.com/file/d/15X_vhtinxMXZ6KKEZyxgxB-gUFINxALi/view)
 * [ProMods Pacific & North American Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2618624602)
@@ -75,5 +54,16 @@ These mods are incompatible at the moment, but will be updated when 1.46 support
 * [Reforma v2.3.6.145](https://truckymods.io/american-truck-simulator/maps/reforma)
     * Mega Resources
     * Reforma
+* [Lite Urban Overhaul v15.2](https://forum.scssoft.com/viewtopic.php?t=287978)
+* [Montana Expansion 2.0 v0.2.2](https://truckymods.io/american-truck-simulator/maps/montana-expansion-20)
 
+# Note
+* **This map combo is designed for Singleplayer ONLY.** It may not work on Convoy.
+* Any contribution to this pull request is welcomed and very appreciated. If you have any feedback feel free to submit on our issue tracker and pull request. (Warning: DO NOT make any pull request which modifies contents inside `archives` folder. Please keep the archived files as-is)
 
+# Archives
+* [2022.07 (1.45)](https://github.com/RoonMoonlight/Roons-ATS-Map-Combo/blob/master/archives/1.45/README.md)
+
+# Credits
+* [GMC Logistics](https://roextended.ro/forum/memberlist.php?mode=viewprofile&u=15977) for their map fixes and providing [map combo](https://roextended.ro/forum/viewtopic.php?f=20&t=2326)
+* [Vinnie Terranova](https://forum.scssoft.com/memberlist.php?mode=viewprofile&u=171700) for his [load order](https://forum.scssoft.com/viewtopic.php?t=292914)
