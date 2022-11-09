@@ -19,6 +19,11 @@ Due to nature of paid mods & SCS Software officially discourages the use of paid
 
 Supported ATS version is 1.46 release. Any open beta versions are unsupported.
 
+* [ProMods Canada v1.2.2](https://www.promods.net/setup.php?game=ats) (Follow the steps carefully)
+    * ProMods Canada Assets Package
+    * ProMods Canada Definition Package
+    * ProMods Canada Map Package
+    * ProMods Canada Models Package
 * [Lite Urban Overhaul v15.3](https://forum.scssoft.com/viewtopic.php?t=287978)
 * [Montana Expansion 2.0 v0.2.5](https://truckymods.io/american-truck-simulator/maps/montana-expansion-20)
 
@@ -55,11 +60,6 @@ These mods are incompatible at the moment, but will be updated when 1.46 support
     * Carribean Map - Def&Map
     * Carribean Map - Models
     * Carribean Map - Models 2
-* [ProMods Canada v1.2.1](https://www.promods.net/setup.php?game=ats) (Follow the steps carefully)
-    * ProMods Canada Assets Package
-    * ProMods Canada Definition Package
-    * ProMods Canada Map Package
-    * ProMods Canada Models Package
 * [Pacific Map v1.1.1](https://terramaps.net/download/view.php?game=pacific)
     * Pacific Def/Map
     * Pacific Models
