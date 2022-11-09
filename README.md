@@ -19,6 +19,8 @@ Due to nature of paid mods & SCS Software officially discourages the use of paid
 
 Supported ATS version is 1.46 release. Any open beta versions are unsupported.
 
+* [Crash Fix for Huge Combo Maps](https://drive.google.com/file/d/15X_vhtinxMXZ6KKEZyxgxB-gUFINxALi/view)
+* [ProMods Pacific & North American Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2618624602)
 * [ProMods Canada v1.2.2](https://www.promods.net/setup.php?game=ats) (Follow the steps carefully)
     * ProMods Canada Assets Package
     * ProMods Canada Definition Package
@@ -45,8 +47,6 @@ Supported ATS version is 1.46 release. Any open beta versions are unsupported.
 # Incompatible Maps
 These mods are incompatible at the moment, but will be updated when 1.46 support is ready.
 
-* [Crash Fix for Huge Combo Maps](https://drive.google.com/file/d/15X_vhtinxMXZ6KKEZyxgxB-gUFINxALi/view)
-* [ProMods Pacific & North American Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2618624602)
 * [San Rafael add-on v2.0](https://truckymods.io/american-truck-simulator/maps/san-rafael-add-on)
 * [Discover Ontario v0.1.9a](https://truckymods.io/american-truck-simulator/maps/discover-ontario)
     * D Ontario-Connections
