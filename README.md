@@ -24,8 +24,12 @@ Supported ATS version is 1.46 release. Any open beta versions are unsupported.
     * ProMods Canada Definition Package
     * ProMods Canada Map Package
     * ProMods Canada Models Package
+* [Coast to Coast v2.12.46.0](https://forum.scssoft.com/viewtopic.php?t=202317)
 * [Lite Urban Overhaul v15.3](https://forum.scssoft.com/viewtopic.php?t=287978)
 * [Montana Expansion 2.0 v0.2.5](https://truckymods.io/american-truck-simulator/maps/montana-expansion-20)
+
+# Known Issues
+* Coast to Coast: Broken road near Glendive (Interstate name: I-94)
 
 # Note
 * **This map combo is designed for Singleplayer ONLY.** It may not work on Convoy.
@@ -66,7 +70,6 @@ These mods are incompatible at the moment, but will be updated when 1.46 support
 * [C2C & Reforma i10 Fix](https://forum.scssoft.com/viewtopic.php?p=1738586)
 * [Reforma C2C Compatibility Patch v14.145](https://reformaats.dudaone.com/downloads)
 * [Project: Mid-Atlantic v0.4.0.1 C2C COMPATIBLE FILE](https://truckymods.io/american-truck-simulator/maps/project-mid-atlantic)
-* [Coast to Coast v2.12.45.4](https://truckymods.io/american-truck-simulator/maps/coast-to-coast)
 * [Grand Canyon Rebuild v1.3](https://forum.scssoft.com/viewtopic.php?t=281638)
 * [Project Better Arizona Reforma Connection v1.2.1](https://truckymods.io/american-truck-simulator/map-patches/project-better-arizona-reforma-connections)
 * [Project Better Arizona v0.2.1](https://truckymods.io/american-truck-simulator/maps/project-better-arizona)
