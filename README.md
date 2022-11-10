@@ -30,9 +30,6 @@ Supported ATS version is 1.46 release. Any open beta versions are unsupported.
 * [Lite Urban Overhaul v15.3](https://forum.scssoft.com/viewtopic.php?t=287978)
 * [Montana Expansion 2.0 v0.2.5](https://truckymods.io/american-truck-simulator/maps/montana-expansion-20)
 
-# Known Issues
-* Coast to Coast: Broken road near Glendive (Interstate name: I-94)
-
 # Note
 * **This map combo is designed for Singleplayer ONLY.** It may not work on Convoy.
 * Any contribution to this pull request is welcomed and very appreciated. If you have any feedback feel free to submit on our issue tracker and pull request. (Warning: DO NOT make any pull request which modifies contents inside `archives` folder. Please keep the archived files as-is)
@@ -41,7 +38,7 @@ Supported ATS version is 1.46 release. Any open beta versions are unsupported.
 * [2022.07 (1.45)](https://github.com/RoonMoonlight/Roons-ATS-Map-Combo/blob/master/archives/1.45/README.md)
 
 # Credits
-* [GMC Logistics](https://roextended.ro/forum/memberlist.php?mode=viewprofile&u=15977) for their map fixes and providing [map combo](https://roextended.ro/forum/viewtopic.php?f=20&t=2326)
+* [GMC Logistics](https://www.gmc-logistics.co.uk/) for their map fixes and providing [map combo](https://www.gmc-logistics.co.uk/c2c-with-discover-ontario-1-45)
 * [Vinnie Terranova](https://forum.scssoft.com/memberlist.php?mode=viewprofile&u=171700) for his [load order](https://forum.scssoft.com/viewtopic.php?t=292914)
 
 # Incompatible Maps
