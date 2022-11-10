@@ -67,7 +67,6 @@ These mods are incompatible at the moment, but will be updated when 1.46 support
 * [C2C & Reforma i10 Fix](https://forum.scssoft.com/viewtopic.php?p=1738586)
 * [Reforma C2C Compatibility Patch v14.145](https://reformaats.dudaone.com/downloads)
 * [Project: Mid-Atlantic v0.4.0.1 C2C COMPATIBLE FILE](https://truckymods.io/american-truck-simulator/maps/project-mid-atlantic)
-* [Grand Canyon Rebuild v1.3](https://forum.scssoft.com/viewtopic.php?t=281638)
 * [Project Better Arizona Reforma Connection v1.2.1](https://truckymods.io/american-truck-simulator/map-patches/project-better-arizona-reforma-connections)
 * [Project Better Arizona v0.2.1](https://truckymods.io/american-truck-simulator/maps/project-better-arizona)
 * [MUO/Reforma Compatibility Patch v1.7.1](https://truckymods.io/american-truck-simulator/map-patches/muoreforma-compatibility-patch)
