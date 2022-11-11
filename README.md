@@ -22,6 +22,7 @@ Supported ATS version is 1.46 release. Any open beta versions are unsupported.
 * [Crash Fix for Huge Combo Maps](https://drive.google.com/file/d/15X_vhtinxMXZ6KKEZyxgxB-gUFINxALi/view)
 * [ProMods Pacific & North American Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2618624602)
 * [Hawaii Ferry Fix - remove Washington Ferries](https://steamcommunity.com/sharedfiles/filedetails/?id=2638370288) (Optional Mod)
+* [MUO/LA Ferry Patch](https://truckymods.io/american-truck-simulator/map-patches/muola-ferry-patch)
 * [Los Angeles Cruise Terminal v1.0.4](https://terramaps.net/download/view.php?game=caribbean)
 * [Caribbean Map v1.3.2](https://terramaps.net/download/view.php?game=caribbean)
     * Carribean - C2C Connector
