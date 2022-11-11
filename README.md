@@ -21,11 +21,21 @@ Supported ATS version is 1.46 release. Any open beta versions are unsupported.
 
 * [Crash Fix for Huge Combo Maps](https://drive.google.com/file/d/15X_vhtinxMXZ6KKEZyxgxB-gUFINxALi/view)
 * [ProMods Pacific & North American Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2618624602)
+* [Hawaii Ferry Fix - remove Washington Ferries](https://steamcommunity.com/sharedfiles/filedetails/?id=2638370288) (Optional Mod)
+* [Los Angeles Cruise Terminal v1.0.4](https://terramaps.net/download/view.php?game=caribbean)
+* [Caribbean Map v1.3.2](https://terramaps.net/download/view.php?game=caribbean)
+    * Carribean - C2C Connector
+    * Carribean Map - Def&Map
+    * Carribean Map - Models
+    * Carribean Map - Models 2
 * [ProMods Canada v1.2.2](https://www.promods.net/setup.php?game=ats) (Follow the steps carefully)
     * ProMods Canada Assets Package
     * ProMods Canada Definition Package
     * ProMods Canada Map Package
     * ProMods Canada Models Package
+* [Pacific Map v1.1.2](https://terramaps.net/download/view.php?game=pacific)
+    * Pacific Def/Map
+    * Pacific Models
 * [Coast to Coast v2.12.46.0](https://forum.scssoft.com/viewtopic.php?t=202317)
 * [Lite Urban Overhaul v15.3](https://forum.scssoft.com/viewtopic.php?t=287978)
 * [Montana Expansion 2.0 v0.2.5](https://truckymods.io/american-truck-simulator/maps/montana-expansion-20)
@@ -56,14 +66,7 @@ These mods are incompatible at the moment, but will be updated when 1.46 support
 * [Caribbean Map - Reforma Fix v1.45-2.0](https://truckymods.io/american-truck-simulator/map-patches/caribbean-map-reforma-fix)
 * [Caribbean Map - Promods Fix v1.45-2.0](https://truckymods.io/american-truck-simulator/map-patches/caribbean-map-promods-fix)
 * [Caribbean - C2C Connector Fix v1.45-2.0](https://truckymods.io/american-truck-simulator/map-patches/caribbean-c2c-conenctor-fix)
-* [Caribbean Map v1.3.1](https://terramaps.net/download/view.php?game=caribbean)
-    * Carribean - C2C Connector
-    * Carribean Map - Def&Map
-    * Carribean Map - Models
-    * Carribean Map - Models 2
-* [Pacific Map v1.1.1](https://terramaps.net/download/view.php?game=pacific)
-    * Pacific Def/Map
-    * Pacific Models
+
 * [C2C & Reforma i10 Fix](https://forum.scssoft.com/viewtopic.php?p=1738586)
 * [Reforma C2C Compatibility Patch v14.145](https://reformaats.dudaone.com/downloads)
 * [Project: Mid-Atlantic v0.4.0.1 C2C COMPATIBLE FILE](https://truckymods.io/american-truck-simulator/maps/project-mid-atlantic)
