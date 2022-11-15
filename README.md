@@ -26,13 +26,14 @@ Supported ATS version is 1.46 release. Any open beta versions are unsupported.
     * ProMods Canada Definition Package
     * ProMods Canada Map Package
     * ProMods Canada Models Package
+* [Midwest Expansion (Beta) v0.171](https://truckymods.io/american-truck-simulator/maps/50-united-former-midwest-expansion-c2c-required)
+* [Project Dakota's v2.0.6](https://truckymods.io/american-truck-simulator/maps/project-dakotas)
 * [Hawaii Ferry Fix - remove Washington Ferries](https://steamcommunity.com/sharedfiles/filedetails/?id=2638370288) (Optional Mod)
 * [MUO/LA Ferry Patch v1.0.3](https://truckymods.io/american-truck-simulator/map-patches/muola-ferry-patch)
 * [Los Angeles Cruise Terminal v1.0.4](https://terramaps.net/download/view.php?game=caribbean)
 * [Pacific Map v1.1.2](https://terramaps.net/download/view.php?game=pacific)
     * Pacific Def/Map
     * Pacific Models
-* [Project Dakota's v2.0.1](https://truckymods.io/american-truck-simulator/maps/project-dakotas)
 * [Coast to Coast v2.12.46.0](https://forum.scssoft.com/viewtopic.php?t=202317)
 * [Lite Urban Overhaul v15.3](https://forum.scssoft.com/viewtopic.php?t=287978)
 * [Montana Expansion 2.0 v0.2.5.5](https://truckymods.io/american-truck-simulator/maps/montana-expansion-20)
@@ -56,7 +57,6 @@ These mods are incompatible at the moment, but will be updated when 1.46 support
     * D Ontario-Connections
     * Discover Ontario - Def
     * Discover Ontario - Map&Models
-* [Midwest Expansion (Beta) v0.170a](https://truckymods.io/american-truck-simulator/maps/50-united-former-midwest-expansion-c2c-required)
 * [MUO/Reforma/LA Ferry Patch v1.1.1](https://truckymods.io/american-truck-simulator/map-patches/muoreformapacific-map-patch)
 * [Caribbean Map - Reforma Fix v1.45-2.0](https://truckymods.io/american-truck-simulator/map-patches/caribbean-map-reforma-fix)
 * [Caribbean Map - Promods Fix v1.45-2.0](https://truckymods.io/american-truck-simulator/map-patches/caribbean-map-promods-fix)
