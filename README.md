@@ -34,8 +34,8 @@ Supported ATS version is 1.46 release. Any open beta versions are unsupported.
 * [Pacific Map v1.1.2](https://terramaps.net/download/view.php?game=pacific)
     * Pacific Def/Map
     * Pacific Models
-* [Coast to Coast v2.12.46.0](https://forum.scssoft.com/viewtopic.php?t=202317)
-* [Lite Urban Overhaul v15.3](https://forum.scssoft.com/viewtopic.php?t=287978)
+* [Coast to Coast v2.12.46.1](https://forum.scssoft.com/viewtopic.php?t=202317)
+* [Lite Urban Overhaul v15.4](https://forum.scssoft.com/viewtopic.php?t=287978)
 * [Montana Expansion 2.0 v0.2.5.5](https://truckymods.io/american-truck-simulator/maps/montana-expansion-20)
 
 # Note
