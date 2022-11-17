@@ -26,7 +26,7 @@ Supported ATS version is 1.46 release. Any open beta versions are unsupported.
     * ProMods Canada Definition Package
     * ProMods Canada Map Package
     * ProMods Canada Models Package
-* [Midwest Expansion (Beta) v0.171](https://truckymods.io/american-truck-simulator/maps/50-united-former-midwest-expansion-c2c-required)
+* [Midwest Expansion (Beta) v0.171a](https://truckymods.io/american-truck-simulator/maps/50-united-former-midwest-expansion-c2c-required)
 * [Project Dakota's v2.0.6](https://truckymods.io/american-truck-simulator/maps/project-dakotas)
 * [Hawaii Ferry Fix - remove Washington Ferries](https://steamcommunity.com/sharedfiles/filedetails/?id=2638370288) (Optional Mod)
 * [MUO/LA Ferry Patch v1.0.3](https://truckymods.io/american-truck-simulator/map-patches/muola-ferry-patch)
