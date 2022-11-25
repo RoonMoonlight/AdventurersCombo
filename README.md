@@ -1,3 +1,17 @@
+# Hey all, please read this.
+After thinking about the future of ETS2 and ATS, I am no longer interested to keep this list updated.
+
+On November 25 2022, SCS Software posted a blog post about asking people to nominate the ETS2 and ATS. After seeing SCS Software intentionally abandoning their old games, I am tired of their attitude and therefore, could not continue update this mod.
+
+I am planning to completely leave ETS2/ATS modding, and now planning to focus on games with better modding community. Thank you everyone for your support of my mods.
+
+This repository will be archived and will no longer be able to interact with this repository. (All pull requests, issue trackers and such will be turned off)
+
+Farewell,
+Roon
+
+**tl;dr: This map combo will no longer receive updates**
+
 # Roon's ATS Map Combo
 Roon's Map Combo for game American Truck Simulator, based on Vinnie Terranova and GMC Logistics' map combos.
 
